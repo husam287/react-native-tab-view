@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tab-view",
+  "name": "@husam287/react-native-tab-view",
   "version": "3.1.1",
   "description": "Tab view component for React Native",
   "main": "lib/commonjs/index.js",
@@ -96,5 +96,8 @@
         }
       ]
     ]
+  },
+  "directories": {
+    "example": "example"
   }
 }
